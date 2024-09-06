@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SCN_002_TC_005_Login - Format Email Salah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03da0723-2576-402d-9b7d-598f9c73d3d3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94373784-ce02-4a5b-b3bd-a3fe9f293f0f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9dcac38e-632f-4311-8450-5d578f3202e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25ee937a-d3dc-4bde-ae7c-84cb7d371a7f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ab297a3-b821-441d-8047-2538f07e793b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f74087c-08d6-451c-a536-948550381781</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dicky88'</defaultValue>
+      <description></description>
+      <id>94373784-ce02-4a5b-b3bd-a3fe9f293f0f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Adi1234567'</defaultValue>
+      <description></description>
+      <id>9dcac38e-632f-4311-8450-5d578f3202e0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Incorrect email or password.'</defaultValue>
+      <description></description>
+      <id>25ee937a-d3dc-4bde-ae7c-84cb7d371a7f</id>
+      <masked>false</masked>
+      <name>incorrectemailpasssword</name>
+   </variable>
+   <variable>
+      <defaultValue>'*Email is required'</defaultValue>
+      <description></description>
+      <id>1ab297a3-b821-441d-8047-2538f07e793b</id>
+      <masked>false</masked>
+      <name>Emailisrequired</name>
+   </variable>
+   <variable>
+      <defaultValue>'*Enter Valid Email'</defaultValue>
+      <description></description>
+      <id>5f74087c-08d6-451c-a536-948550381781</id>
+      <masked>false</masked>
+      <name>Entervalidemail</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Thankyou for the order</name>
+   <tag></tag>
+   <elementGuidId>a4145341-9150-4826-ac9a-de7564a7a0a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='htmlData']/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.hero-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6b69b809-d36d-40cc-aa37-951e09a23bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hero-primary</value>
+      <webElementGuid>7df2ad4f-beed-4c98-91a7-dd12bd83d491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thankyou for the order. </value>
+      <webElementGuid>bfa7a01b-f6a6-4b7b-b30a-eed749015ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;htmlData&quot;)/tbody[1]/tr[4]/td[@class=&quot;box&quot;]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/h1[@class=&quot;hero-primary&quot;]</value>
+      <webElementGuid>fb0eecdd-531b-47fe-8c02-144775d48e8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='htmlData']/tbody/tr[4]/td/table/tbody/tr/td/table/tbody/tr/td/h1</value>
+      <webElementGuid>d7157598-9b6c-42da-a415-a55bc8cb12a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/following::h1[1]</value>
+      <webElementGuid>e6c96a50-3eb9-4c2f-ab42-5004714258e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders History Page'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fdcaafb9-694e-49f4-8f1c-6b5cc028e35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thankyou for the order.']/parent::*</value>
+      <webElementGuid>32619511-762d-45f4-a6d8-20cb717abc49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>1090eefe-31db-418a-9966-e868c46d1e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = ' Thankyou for the order. ' or . = ' Thankyou for the order. ')]</value>
+      <webElementGuid>46477d55-eccc-4d81-a7df-53c43bc4f7fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

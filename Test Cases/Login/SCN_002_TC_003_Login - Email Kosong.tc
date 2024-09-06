@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SCN_002_TC_003_Login - Email Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bafe20b-71a8-4126-9d1c-3f43307469cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90b2c273-524f-4a08-8f70-95673cd5e330</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40a6e139-8e77-49cb-ac4e-dbc5c1e7f30e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f3cf7fe-c786-4070-8b3c-3b06e337b32e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>624483ce-c9ee-40bc-9a5b-be79c4295d8d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dicky88@yopmail.com'</defaultValue>
+      <description></description>
+      <id>90b2c273-524f-4a08-8f70-95673cd5e330</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Adi12345671'</defaultValue>
+      <description></description>
+      <id>40a6e139-8e77-49cb-ac4e-dbc5c1e7f30e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Incorrect email or password.'</defaultValue>
+      <description></description>
+      <id>6f3cf7fe-c786-4070-8b3c-3b06e337b32e</id>
+      <masked>false</masked>
+      <name>incorrectemailpasssword</name>
+   </variable>
+   <variable>
+      <defaultValue>'*Email is required'</defaultValue>
+      <description></description>
+      <id>624483ce-c9ee-40bc-9a5b-be79c4295d8d</id>
+      <masked>false</masked>
+      <name>Emailisrequired</name>
+   </variable>
+</TestCaseEntity>

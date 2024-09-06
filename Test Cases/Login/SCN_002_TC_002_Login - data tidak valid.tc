@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SCN_002_TC_002_Login - data tidak valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0f89ceb-cfeb-4a1b-98b3-67183555a346</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c776c9a3-5bce-40d9-90b0-7a4cd28fc0b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d0a8797-acce-436f-9506-e2f102940250</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8626d6a1-08f5-404a-abdf-ed7881405b22</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dicky88@yopmail.com'</defaultValue>
+      <description></description>
+      <id>c776c9a3-5bce-40d9-90b0-7a4cd28fc0b4</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Adi12345671'</defaultValue>
+      <description></description>
+      <id>0d0a8797-acce-436f-9506-e2f102940250</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Incorrect email or password.'</defaultValue>
+      <description></description>
+      <id>8626d6a1-08f5-404a-abdf-ed7881405b22</id>
+      <masked>false</masked>
+      <name>incorrectemailpasssword</name>
+   </variable>
+</TestCaseEntity>

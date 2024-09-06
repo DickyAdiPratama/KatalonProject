@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SCN_002_Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>055a3820-035c-4129-8d10-320fda236b30</testSuiteGuid>
+   <testCaseLink>
+      <guid>6f6540d2-4647-4be6-b245-8f9cb0491b91</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/SCN_002_TC_001_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b46138f4-a33f-4a45-96f6-7713ab05267a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataLogin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b46138f4-a33f-4a45-96f6-7713ab05267a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>449adcdc-5ab7-40a7-b186-77d650da3b9a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b46138f4-a33f-4a45-96f6-7713ab05267a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f5af1645-5009-4cac-8783-f628184087d0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
